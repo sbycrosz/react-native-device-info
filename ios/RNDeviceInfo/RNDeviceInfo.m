@@ -107,6 +107,10 @@ RCT_EXPORT_MODULE(RNDeviceInfo)
                               @"iPhone10,4":@"iPhone 8",        // (model A1905)
                               @"iPhone10,2":@"iPhone 8 Plus",   // (model A1864, A1898, A1899)
                               @"iPhone10,5":@"iPhone 8 Plus",   // (model A1897)
+                              @"iPhone11,2":@"iPhone XS",       //
+                              @"iPhone11,4":@"iPhone XS Max",   //
+                              @"iPhone11,6":@"iPhone XS Max",   //
+                              @"iPhone11,8":@"iPhone XR",       //
                               @"iPad4,1"   :@"iPad Air",        // 5th Generation iPad (iPad Air) - Wifi
                               @"iPad4,2"   :@"iPad Air",        // 5th Generation iPad (iPad Air) - Cellular
                               @"iPad4,3"   :@"iPad Air",        // 5th Generation iPad (iPad Air)
